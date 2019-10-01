@@ -1,0 +1,4 @@
+# Created at 2019-09-28T06:35:51.976
+Boot Manifest-JAR contains absolute paths in classpath 'F:\OpenSourceHRMgt\OrnageHRMApp\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
